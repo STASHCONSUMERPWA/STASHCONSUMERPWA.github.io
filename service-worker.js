@@ -37,8 +37,8 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["index.html","b5b4aa8ccbf1f793af10a9a01c1387e6"]];
-var cacheName = 'sw-precache-v3-STASH_WEB_APP-' + (self.registration ? self.registration.scope : '');
+var precacheConfig = [["index.html","649339eebb61159fbe55b0f33a9550b3"]];
+var cacheName = 'sw-precache-v3-sw-precache-' + (self.registration ? self.registration.scope : '');
 
 
 var ignoreUrlParametersMatching = [/^utm_/];
